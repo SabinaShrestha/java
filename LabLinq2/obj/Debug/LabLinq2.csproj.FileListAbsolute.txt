@@ -1,0 +1,6 @@
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\LabLinq2\bin\Debug\LabLinq2.exe.config
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\LabLinq2\bin\Debug\LabLinq2.exe
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\LabLinq2\bin\Debug\LabLinq2.pdb
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\LabLinq2\obj\Debug\LabLinq2.csprojResolveAssemblyReference.cache
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\LabLinq2\obj\Debug\LabLinq2.exe
+C:\OneDrive\CSIS-2410 Fall 2017\2410\NEU\LabLinq2\obj\Debug\LabLinq2.pdb
